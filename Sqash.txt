@@ -1,0 +1,3 @@
+
+This is in the sqash branch
+Added new line
